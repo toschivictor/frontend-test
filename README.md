@@ -22,6 +22,10 @@ Após isso, rode a aplicação:
 
     npm start
 
+Para executar os testes:
+
+    npm test
+
 Depois do seu setup você precisará seguir as seguintes instruções, para
 construir a aplicação:
 
